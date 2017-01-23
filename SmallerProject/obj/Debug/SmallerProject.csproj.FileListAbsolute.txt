@@ -1,0 +1,6 @@
+c:\users\tamton\documents\visual studio 2015\Projects\SmallerProject\SmallerProject\bin\Debug\SmallerProject.exe.config
+C:\Users\TamTon\Documents\Visual Studio 2015\Projects\SmallerProject\SmallerProject\bin\Debug\SmallerProject.exe
+C:\Users\TamTon\Documents\Visual Studio 2015\Projects\SmallerProject\SmallerProject\bin\Debug\SmallerProject.pdb
+C:\Users\TamTon\Documents\Visual Studio 2015\Projects\SmallerProject\SmallerProject\obj\Debug\SmallerProject.csprojResolveAssemblyReference.cache
+C:\Users\TamTon\Documents\Visual Studio 2015\Projects\SmallerProject\SmallerProject\obj\Debug\SmallerProject.exe
+C:\Users\TamTon\Documents\Visual Studio 2015\Projects\SmallerProject\SmallerProject\obj\Debug\SmallerProject.pdb
