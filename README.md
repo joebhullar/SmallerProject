@@ -6,3 +6,4 @@
 "# EquationIntoCanonicalFormSolverFileInteractive" 
 "# EquationIntoCanonicalFormSolverFileInteractive" 
 "# EquationIntoCanonicalFormSolverFileInteractive" 
+"# SmallerProject" 
